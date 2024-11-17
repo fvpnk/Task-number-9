@@ -64,3 +64,11 @@ font-family: "Arial Black";
     margin-left: 40%;
     
 }
+
+
+.button2 {
+    background-color:#dff5f2;
+    font-family: "Arial Black";
+    text-align: center;
+    border-width: 0px;
+}
